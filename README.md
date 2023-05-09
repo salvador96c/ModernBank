@@ -1,4 +1,3 @@
 # ModernBank
-# ModernBank
-# ModernBank
-# ModernBank
+
+"Follow-through" of Youtube guide.
